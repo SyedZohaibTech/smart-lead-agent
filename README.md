@@ -35,8 +35,8 @@ An AI-powered autonomous sales and research engine built to eliminate manual B2B
    cd smart-lead-agent
 2. Create and activate a virtual environment:
    python -m venv venv
-    # Windows:
-    venv\Scripts\activate
+      # Windows:
+       venv\Scripts\activate
 3. Install dependencies:
     pip install -r requirements.txt
 4. Configure environment variables:
