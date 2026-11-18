@@ -33,3 +33,20 @@ An AI-powered autonomous sales and research engine built to eliminate manual B2B
    ```bash
    git clone [https://github.com/SyedZohaibTech/smart-lead-agent.git](https://github.com/SyedZohaibTech/smart-lead-agent.git)
    cd smart-lead-agent
+2. Create and activate a virtual environment:
+   python -m venv venv
+    # Windows:
+    venv\Scripts\activate
+3. Install dependencies:
+    pip install -r requirements.txt
+4. Configure environment variables:
+    Create a .env file in the root directory and add your Groq API key:
+    Code snippet
+    GROQ_API_KEY=your_groq_api_key_here
+5. Run the application:
+    Bash
+    streamlit run app.py
+👨‍💻 Author
+Syed Zohaib — Founder & Agentic AI Engineer at S.Z Infinity Tech
+
+📧 Contact: szinfinitysolutions@gmail.com
