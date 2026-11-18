@@ -46,7 +46,10 @@ An AI-powered autonomous sales and research engine built to eliminate manual B2B
 5. Run the application:
     Bash
     streamlit run app.py
-👨‍💻 Author
-Syed Zohaib — Founder & Agentic AI Engineer at S.Z Infinity Tech
 
-📧 Contact: szinfinitysolutions@gmail.com
+
+
+👨‍💻 Author
+    Syed Zohaib — Founder & Agentic AI Engineer at S.Z Infinity Tech
+
+    📧 Contact: szinfinitysolutions@gmail.com
